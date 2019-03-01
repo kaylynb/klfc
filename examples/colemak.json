@@ -9,7 +9,8 @@
   "version": "1.0",
   "shiftlevels": [ "None", "Shift" ],
   "singletonKeys": [
-    [ "CapsLock", "Backspace" ]
+    [ "CapsLock", "Control_L" ],
+    [ "Win_R", "Shift_L" ]
   ],
   "keys": [
     { "pos": "~", "letters": [ "`", "~" ] },
